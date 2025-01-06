@@ -3,4 +3,4 @@ print(a.isalnum())
 b = 'amol 12345'
 print(b.isalnum()) #=> false
 c = 'amol@123'
-print(c.isalnum()) #=> false
+print(c.isalnum() #=> false
