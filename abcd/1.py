@@ -1,5 +1,5 @@
 a = [10,20,30,40]
-a.append(50)
+a.append(60)
 print(a)
 bastman=[]
 for b in range(5):
